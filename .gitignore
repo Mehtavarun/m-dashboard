@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Build outputs (if you switch to React later)
+build/
+dist/
+
+# OS Metadata
+.DS_Store
+Thumbs.db
